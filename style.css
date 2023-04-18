@@ -1,0 +1,22 @@
+button{
+    background-color: rgb(255, 207, 223);
+    width: 200px;
+    height: 25px;
+    font-size: 13pt;
+    margin-bottom: 5px;
+    color: rgb(225, 93, 122);
+    border-radius: 10px;
+    border: 2px solid rgb(230, 132, 165);
+
+}
+button:hover{
+    background-color: rgb(235, 145, 169);
+}
+#stroka{
+    background-color: rgb(247, 241, 219);
+    font-size: 13pt;
+    margin-bottom: 5px;
+    color: rgb(225, 93, 122);
+    border-radius: 10px;
+    border: 2px solid palevioletred;
+}
